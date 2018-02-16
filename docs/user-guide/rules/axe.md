@@ -1,7 +1,7 @@
 # Accessibility assessment with aXe (`axe`)
 
 `aXe` is the accessibility engine for automated testing of HTML-based
-user interfaces. This rules performs the default accessibility tests
+user interfaces. This rule performs the default accessibility tests
 (WCAG 2.0 Level A and Level AA rules) and alerts if something fails.
 
 ## Why is this important?
